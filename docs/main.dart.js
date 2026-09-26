@@ -50717,7 +50717,7 @@ l=l.ax
 l===$&&A.a()
 k=t.N
 s=6
-return A.n(l.mj("gcal-token",A.a4(["action","ping"],k,k)).rE(0,B.rK),$async$C9)
+return A.n(l.mj("swift-processor",A.a4(["action","ping"],k,k)).rE(0,B.rK),$async$C9)
 case 6:n=b
 m=n.a
 o.x=t.f.b(m)&&J.d(J.a9(m,"configured"),!0)
@@ -50851,7 +50851,7 @@ i===$&&A.a()
 i=i.ax
 i===$&&A.a()
 s=7
-return A.n(i.mj("gcal-token",b).rE(0,B.Ru),$async$t6)
+return A.n(i.mj("swift-processor",b).rE(0,B.Ru),$async$t6)
 case 7:n=d
 m=n.a
 i=t.N
